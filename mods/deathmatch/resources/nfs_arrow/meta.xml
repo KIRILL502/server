@@ -1,0 +1,9 @@
+<meta>
+	<info description="NFS Arrow" version="1.0.0" type="script" />
+	<script src="c.lua" type="client" />
+	<file src="bb.txd" type="client" />
+	<file src="bb.dff" type="client" />
+	<file src="bb.col" type="client" />
+	<file src="bb.png" type="client" />
+	<file src="shader.fx" type="client" />
+</meta>

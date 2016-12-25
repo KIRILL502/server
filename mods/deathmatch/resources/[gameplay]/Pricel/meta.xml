@@ -1,0 +1,87 @@
+<meta>
+<info author="4ekzemble" name="PRICEL SISTEM" version="5.0" description="MTA DAYZ" type="script"/>
+    <script src='fanbox.lua' type="client" cache="false"/>
+    <file src="texreplace.fx" />
+	
+	<file src="false.png" />
+	<file src="true.png" />
+	
+	<file src="1.png" />
+	<file src="2.png" />
+	<file src="3.png" />
+	<file src="4.png" />
+	<file src="5.png" />
+	<file src="6.png" />
+	<file src="7.png" />
+	<file src="8.png" />
+	<file src="9.png" />
+	<file src="10.png" />
+	<file src="11.png" />
+	<file src="12.png" />
+	<file src="13.png" />
+	<file src="14.png" />
+	<file src="15.png" />
+	<file src="16.png" />
+	<file src="17.png" />
+	<file src="18.png" />
+	<file src="19.png" />
+	<file src="20.png" />
+	<file src="21.png" />
+	<file src="22.png" />
+	<file src="23.png" />
+	<file src="24.png" />
+	<file src="25.png" />
+	<file src="26.png" />
+	<file src="27.png" />
+	<file src="28.png" />
+	<file src="29.png" />
+	<file src="30.png" />
+	<file src="31.png" />
+	<file src="32.png" />
+	<file src="33.png" />
+	<file src="34.png" />
+	<file src="35.png" />
+	<file src="36.png" />
+	<file src="37.png" />
+	<file src="38.png" />
+	<file src="39.png" />
+	<file src="40.png" />
+	<file src="41.png" />
+	<file src="42.png" />
+	<file src="43.png" />
+	<file src="44.png" />
+	<file src="45.png" />
+	<file src="46.png" />
+	<file src="47.png" />
+	<file src="48.png" />
+	<file src="49.png" />
+	<file src="50.png" />
+	<file src="51.png" />
+	<file src="52.png" />
+	<file src="53.png" />
+	<file src="54.png" />
+	<file src="55.png" />
+	<file src="56.png" />
+	<file src="57.png" />
+	<file src="58.png" />
+	<file src="59.png" />
+	<file src="60.png" />
+	<file src="61.png" />
+	<file src="62.png" />
+	<file src="63.png" />
+	<file src="64.png" />
+	<file src="65.png" />
+	<file src="66.png" />
+	<file src="67.png" />
+	<file src="68.png" />
+	<file src="69.png" />
+	<file src="70.png" />
+	<file src="71.png" />
+	<file src="72.png" />
+
+
+
+			
+
+
+</meta>

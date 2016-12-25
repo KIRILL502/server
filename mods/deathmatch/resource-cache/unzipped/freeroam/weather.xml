@@ -1,0 +1,22 @@
+<catalog type="weather">
+	<weather id="0" name="Голубое небо с облаками" />
+	<weather id="1" name="Голубое небо с облаками" />
+	<weather id="2" name="Голубое небо с облаками" />
+	<weather id="3" name="Голубое небо с облаками" />
+	<weather id="4" name="Голубое небо с облаками" />
+	<weather id="5" name="Голубое небо с облаками" />
+	<weather id="6" name="Голубое небо с облаками" />
+	<weather id="7" name="Голубое небо с облаками" />
+	<weather id="8" name="Буря" />
+	<weather id="9" name="Туманно" />
+	<weather id="10" name="Чистое, голубое небо" />
+	<weather id="11" name="Аномальная жара" />
+	<weather id="12" name="Пасмурно, Туманно" />
+	<weather id="13" name="Пасмурно, Туманно" />
+	<weather id="14" name="Пасмурно, Туманно" />
+	<weather id="15" name="Пасмурно, Туманно" />
+	<weather id="16" name="Пасмурно, облачно, дождь" />
+	<weather id="17" name="Очень жарко" />
+	<weather id="18" name="Очень жарко" />
+	<weather id="19" name="Песчанная буря" />
+</catalog>

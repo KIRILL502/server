@@ -1,0 +1,4 @@
+<meta>
+	<info name="Save System" author="Gangman" version="1.0" type="script" />
+	<script src="SS_server.lua" />
+</meta>

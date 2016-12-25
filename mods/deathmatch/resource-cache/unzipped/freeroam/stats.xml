@@ -1,0 +1,20 @@
+<catalog type="stat">
+	<group name="Тело персонажа">
+		<stat name="Полнота" id="21" />
+		<stat name="Мускулатура" id="23" />
+		<stat name="Макс. здоровье" id="24" />
+	</group>
+	<group name="Владение оружием">
+		<stat name="AK-47" id="77" />
+		<stat name="Пустынный орёл" id="71" />
+		<stat name="M4" id="78" />
+		<stat name="MP5" id="76" />
+		<stat name="Пистолет" id="69" />
+		<stat name="Обрез" id="73" />
+		<stat name="Дробовик" id="72" />
+		<stat name="Пистолет с глушителем" id="70" />
+		<stat name="Снайперская винтовка" id="79" />
+		<stat name="SPAZ-12" id="74" />
+		<stat name="Узи" id="75" />
+	</group>
+</catalog>

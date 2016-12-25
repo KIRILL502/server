@@ -1,0 +1,235 @@
+﻿function hideArea()
+	showPlayerHudComponent ( "area_name", false )
+end
+addEventHandler('onClientResourceStart',root,hideArea)
+function showArea()
+	showPlayerHudComponent ( "area_name", true )
+end
+addEventHandler('onClientResourceStop',root,showArea)
+local player = getLocalPlayer()
+local drawFontCity = dxCreateFont("font/draw.ttf", 25)
+
+local scx, scy = guiGetScreenSize()
+local zoneNames = {
+--разное
+     ['San Andreas Sound']='Пролив Сан-Андреас';
+	 ['San Fierro']='Сан-Фиерро';
+	 ['Las Venturas']='Лас-Вентурас';
+     ['Bayside Marina']='Причал Бэйсайд';
+	 ['Bayside']='Бэйсайд';
+	 ['Bayside Tunnel']='Тоннель Бэйсайд';
+	 ['Battery Point']='Бэттери-Пойнт';
+	 ['The Sherman Dam']='Плотина Шермана';
+	 ['Ocean Flats']='Океан-Флэтс';
+	 ['Foster Valley']='Долина Фостера';
+	 ['Hashbury']='Хэшбери';
+	 ['Calton Heights']='Калтон-Хейтс';
+	 ['Downtown']='Деловой Район';
+	 ['Juniper Hill']='Холм Джунифера';
+	 ['Juniper Hollow']='Низины Джунифер';
+	 ['Chinatown']='Китайский квартал';
+	 ["King's"]='Королевский район';
+	 ['Garcia']='Гарсия';
+	 ['Doherty']='Доэрти';
+	 ['Easter Bay Airport']='Аэропорт Истер-Бэй';
+	 ['Garver Bridge']='Мост Гарвер';
+	 ['Gant Bridge']='Мост Гант';
+	 ['Avispa Country Club']='Загородный клуб Ависпа';
+	 ['Bone County']='Округ Боун';
+	 ['Flint County']='Округ Флинт';
+	 ['Easter Tunnel']='Восточный Тоннель';
+	 ['Montgomery Intersection']='Развязка Монтгомери';
+	 ['Mount Chiliad']='Гора Тысячелетия';
+	 ['The Farm']='Ферма';
+	 ['Leafy Hollow']='Листовая ложбина';
+	 ['Angel Pine']='Ангел Пэйн';
+	 ['Missionary Hill']='Миссионерский Холм';
+	 ['Linden Side']='Линденская сторона';
+	 ['City Hall']='Городской Центр';
+	 ['Easter Bay Chemicals']='Химзавод Истер-Бэй';
+	 ['Santa Flora']='Санта-Флора';
+	 ['Paradiso']='Райский район';
+	 ['Financial']='Финансовый';
+	 ['Esplanade North']='Северный Эспланаде';
+	 ['Esplanade East']='Восточный Эспланаде';
+	 ['Queens']='Куинс';
+	 ['Fallow Bridge']='Парящий мост';
+	 ['Martin Bridge']='Мост Мартин';
+	 ['Flint Water']='Кремневые воды';
+	 ['Easter Basin']='Восточная Бухта';
+	 ['Aldea Malvada']='Злая деревня';
+	 ['El Castillo del Diablo']='Замок дъявола';
+	 ['Las Barrancas']='Лас-Барранкас';
+	 ['Fort Carson']='Форт Карсон';
+	 ['Las Brujas']='Лас-Брухас';
+	 ['Las Payasadas']='Лас-Паясадас';
+	 ['Arco del Oeste']='Арко-дель-Оэсте';
+	 ['Dillimore']='Диллимур';
+	 ['Hilltop Farm']='Хилтоп Ферма';
+	 ['Blueberry']='Блуберри';
+	 ['The Panopticon']='Паноптикум';
+	 ['Frederick Bridge']='Мост Фредерика';
+	 ['Blueberry Acres']='Наделы Блуберри';
+	 ['Tierra Robada']='Украденная земля';
+	 ['Green Palms']='Зеленый пальмы';
+	 ['Palomino Creek']='Паломино-Крик';
+	 ['Montgomery']='Монтгомери';
+	 ['Hampton Barns']='Хэмптон Барнс';
+	 ['North Rock']='Северная Скала';
+	 ['Shady Creeks']='Тенистые Ручьи';
+	 ['Shady Cabin']='Тенистая Хижина';
+	 ['Back o Beyond']='Глушь';
+	 ['The Mako Span']='Мост Мако-Спэн';
+	 ['Fern Ridge']='Папоротниковый кряж';
+	 ['The High Roller']='Хайроллер';
+	 ['Valle Ocultado']='Валли-Окултадо';
+	 ['Palisades']='Палисадес';
+	 ['Whetstone']='Ветстоун';
+	 ['Verdant Meadows']='Зелёные Луга';
+	 ['El Quebrados']='Эль-Квебрадос';
+	 ['Flint Intersection']='Развязка Флинт';
+	 ['Cranberry Station']='Крэнберри Стейшн';
+	 ["Lil' Probe Inn"]='Трактир Маленький Зонд';
+	 ['Beacon Hill']='Бикон Хилл';
+	 ['Restricted Area']='Запретная зона';
+	 ['Hunter Quarry']='Охотничий Карьер';
+	 ["Fisher's Lagoon"]='Залив Рыбака';
+	 ['Octane Springs']='Октан-Спрингс';
+	 ['Hankypanky Point']='Хэнкипэнки-Пойнт';
+	 ["'The Big Ear'"]='Большое Ухо';
+	 ['Sherman Reservoir']='Водохранилище Шермана';
+	 ['San Fierro Bay']='Бухта Сан-Фиерро';
+	 ['Kincaid Bridge']='Мост Кинкейд';
+	 ['Regular Tom']='Монах Том';
+	 ['Unknown']='Неизвестный';
+	 ['Blackfield Chapel']='Блэкфилдская Часовня';
+	 ['Red County']='Округ Рэд';
+ --Лас-Вентурас
+     ['Redsands West']='Западный Рэдсендс';
+	 ['Redsands East']='Восточный Рэдсендс';
+	 ['Prickle Pine']='Прикл-Пайн';
+	 ['Sobell Rail Yards']='Ж/д-депо Собелл';
+	 ['Creek']='Крик';
+ 	 ['Linden Side']='Линден-Сайд';
+     ['K.A.C.C. Military Fuels']='Военные склады К.А.К.А.';
+	 ['Whitewood Estates']='Вайтвудские Владения';
+	 ['Yellow Bell Golf Course']='Гольф-поле Йеллоу-Белл';
+	 ['Las Venturas Airport']='Аэропорт Лас-Вентурас';
+	 ["The Clown's Pocket"]='Карман Клоуна';
+	 ['Spinybed']='Колючая Гряда';
+     ['Pilgrim']='Пилигрим';
+     ['Roca Escalante']='Рока-Эскаланте';
+	 ['Come-A-Lot']='Каме-лот';
+	 ['The Four Dragons Casino']='Казино 4 Дракона';
+	 ['Starfish Casino']='Казино Старфиш';
+	 ['Royal Casino']='Казино Рояль';
+	 ['Robada Intersection']='Развязка Робада';
+     ['Linden Station']='Линден Стейшн';
+	 ['The Strip']='Лас-Вентурас-Стрип';
+	 ["Caligula's Palace"]='Дворец Калигулы';
+	 ['The Emerald Isle']='Изумрудный Остров';
+	 ['Old Venturas Strip']='Старый Стрип';
+	 ['The Visage']='Визаж';
+	 ['Greenglass College']='Колледж Грингласс';
+	 ['Blackfield']='Блэкфилд';
+	 ['Randolph Industrial Estate']='Рэндолфские Владения';
+	 ['LVA Freight Depot']='Грузовая База ЛВА';
+	 ['Blackfield Intersection']='Развязка Блэкфилд';
+	 ['Pilson Intersection']='Развязка Пилсон';
+	 ['Julius Thruway South']='Джулиусская Южная Автомагистраль';
+	 ['Julius Thruway West']='Джулиусская Западная Автомагистраль';
+	 ['Julius Thruway North']='Джулиусская Северная Автомагистраль';
+	 ['Julius Thruway East']='Джулиусская Восточная Автомагистраль';
+	 ['East Rockshore']='Восточный Рокшор';
+	 ['West Rockshore']='Западный Рокшор';
+	 ['The Pink Swan']='Розовый Лебедь';
+	 ["Pirates in Men's Pants"]='Пираты-в-брюках';
+	 ["The Camel's Toe"]='Верблюжье Копыто';
+	 ['Harry Gold Parkway']='Автострада Гэрри Голда';
+	 ['Rokshor East']='Рокшер ист';
+--Лос-Сантос
+	 ['Ganton']='Гэнтон';
+	 ['East Los Santos']='Восток Лос-Сантос';
+	 ['Los Flores']='Лос-Флорес';
+	 ['East Beach']='Ист-Бич';
+	 ['Verona Beach']='Верона-Бич';
+	 ['Santa Maria Beach']='Санта-Мария-Бич';
+	 ['Las Colinas']='Лас-Колинас';
+	 ['Los Santos']='Лос-Сантос';
+	 ['Glen Park']='Глен-Парк';
+	 ['Jefferson']='Джефферсон';
+	 ['Willowfield']='Уиллоуфилд';
+	 ['Playa del Seville']='Плая-дель-Севилья';
+	 ['Ocean Docks']='Океанские Доки';
+	 ['Los Santos International']='Лос-Сантос Интернешнл';
+	 ['Commerce']='Каммерс';
+	 ['Pershing Square']='Пёршин-Сквер';
+	 ['Market']='БПАН';
+	 ['Vinewood']='Вайнвуд';
+	 ['Rodeo']='Родео';
+	 ['Temple']='Темпл';
+	 ['Mulholland']='Малхолланд';
+	 ['Richman']='Ричман';
+	 ['Idlewood']='Айдлвуд';
+	 ['El Corona']='Эль-Корона';
+	 ['Unity Station']='Юнити-Стейшн';
+	 ['Market Station']='Маркет Стейшн';
+	 ['Yellow Bell Station']='Йеллоу-Белл Стейшн';
+	 ['Little Mexico']='Маленькая Мексика';
+	 ['Mulholland Intersection']='Развязка Малхолланд';
+	 ['Downtown Los Santos']='Деловой Центр';
+	 ['Verdant Bluffs']='Вёрдант-Блафс';
+	 ['Marina']='Гавань';
+	 ['Conference Center']='Конференц-центр';
+	 ['Fallen Tree']='Лесоповал'
+}
+
+-- ## New City Draw Region
+
+local lastCity = ""
+local cityDraw = false
+local cityDrawTimer
+local cityDrawAlpha = 0
+local cityDrawAlphaBoolean = true
+local cityDrawTime = 0
+local cityDrawTimeI = getTickCount()
+
+addEventHandler("onClientRender", root, function()
+	checkNewCity()
+end)
+
+function checkNewCity()
+	local x, y, z = getElementPosition( player )
+	local city = zoneNames[getZoneName(x, y, z, false)]
+	if city ~= lastCity then
+		lastCity = city
+		if cityDraw then
+			killTimer(cityDrawTimer)
+			cityDrawTimer = setTimer(function() removeEventHandler("onClientRender", root, drawCity) cityDraw = false cityDrawAlpha = 0 end, 5000, 1)
+		else
+			addEventHandler("onClientRender", root, drawCity)
+			cityDrawTimer = setTimer(function() removeEventHandler("onClientRender", root, drawCity) cityDraw = false cityDrawAlpha = 0 end, 5000, 1)
+			cityDraw = true
+			cityDrawAlphaBoolean = true
+		end
+		cityDrawTimeI = getTickCount()
+	end
+end
+
+function drawCity()
+	if cityDrawAlpha < 255 and cityDrawAlphaBoolean then
+		cityDrawAlpha = cityDrawAlpha +5
+	else
+		cityDrawAlphaBoolean = false
+	end
+	
+	if cityDrawTimeI+3000 < getTickCount() then
+		if cityDrawAlpha > 0 then
+			cityDrawAlpha = cityDrawAlpha - 5
+		end
+	end
+	dxDrawText(lastCity, 1, scy-120+1, scx+1, scy-100+1, tocolor(0, 0, 0, cityDrawAlpha), 1, drawFontCity, "center", "top", false, false, true)
+	dxDrawText(lastCity, 0, scy-120, scx, scy-100, tocolor(255, 255, 255, cityDrawAlpha), 1, drawFontCity, "center", "top", false, false, true)
+end
+
+-- ## END

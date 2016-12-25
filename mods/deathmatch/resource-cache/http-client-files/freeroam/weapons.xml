@@ -1,0 +1,75 @@
+<catalog type="weapon">
+	<group name="Ручное">
+		<weapon id="1" name="Кастет" />
+	</group>
+	
+	<group name="Рукопашное">
+		<weapon id="5" name="Бита" />
+		<weapon id="15" name="Трость" />
+		<weapon id="9" name="Бензопила" />
+		<weapon id="2" name="Гольф-клюшка" />
+		<weapon id="7" name="Кий" />
+		<weapon id="8" name="Катана" />
+		<weapon id="4" name="Нож" />
+		<weapon id="3" name="Дубинка" />
+		<weapon id="6" name="Лопата" />
+	</group>
+	
+	<group name="Пистолеты">
+		<weapon id="24" name="Пустынный орёл" />
+		<weapon id="22" name="Пистолет" />
+		<weapon id="23" name="Пистолет с глушителем" />
+	</group>
+	
+	<group name="Дробовики">
+		<weapon id="26" name="Обрез" />
+		<weapon id="25" name="Дробовик" />
+		<weapon id="27" name="SPAZ-12" />
+	</group>
+	
+	<group name="Микро пулемёты">
+		<weapon id="29" name="MP5" />
+		<weapon id="32" name="TEC-9" />
+		<weapon id="28" name="Узи" />
+	</group>
+	
+	<group name="Автоматы">
+		<weapon id="30" name="AK-47" />
+		<weapon id="31" name="M4" />
+	</group>
+	
+	<group name="Винтовки">
+		<weapon id="33" name="Обычная" />
+		<weapon id="34" name="Снайперская" />
+	</group>
+	
+	<group name="Тяжелое вооружение">
+		<weapon id="37" name="Огнемёт" />
+		<weapon id="36" name="Стингер" />
+		<weapon id="38" name="Пулемёт" />
+		<weapon id="35" name="РПГ-7" />
+	</group>
+	
+	<group name="Снаряды">
+		<weapon id="16" name="Граната" />
+		<weapon id="18" name="Коктейль Молотова" />
+		<weapon id="39" name="Взрывное устройство" />
+		<weapon id="40" name="Детонатор" />
+		<weapon id="17" name="Слезоточивый газ" />
+	</group>
+	
+	<group name="Специальные">
+		<weapon id="43" name="Камера" />
+		<weapon id="42" name="Огнетушитель" />
+		<weapon id="45" name="Инфракрасные очки" />
+		<weapon id="44" name="Очки ночного видения" />
+		<weapon id="46" name="Парашют" />
+	</group>
+	
+	<group name="Другое">
+		<weapon id="14" name="Цветы" />
+		<weapon id="10" name="Длинный дилдо" />
+		<weapon id="11" name="Короткий дилдо" />
+		<weapon id="12" name="Вибратор" />
+	</group>
+</catalog>

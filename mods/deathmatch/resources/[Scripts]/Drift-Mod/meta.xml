@@ -1,0 +1,13 @@
+<meta>
+	<info author="Jumper" version="1.1.0" type="script" description="lol"/>		
+	<script src="drift_sv.lua" />	
+	<script src="drift_sav.lua" type="server" />
+	<script src="carname/carnames.lua" type="server" />	
+	<script src="drift_cl.lua" type="client" />
+	<script src="speedo/c_textlib.lua" type="client" />	
+	<script src="speedo/c_gui.lua" type="client" />	
+	<script src="speedo/c_settings.lua" type="client" />	
+	<script src="speedo/c_main.lua" type="client" />
+	<script src="carname/cn_client.lua" type="client" />	
+	<file src="font_cl.ttf" type="client" />	
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+	<info author="Jumper" description="Street-Drift" version="1.0" type="gamemode" />
+	
+	<settings>
+		<setting name="*spawnreset" value="onSpawn"
+				 friendlyname="Spawn Reset"
+				 accept="onSpawn,onServerEmpty,onServerStart"
+				 desc="When should a new spawnpoint be chosen?"
+		/>
+	</settings>
+	
+	<map src="broph.map" />
+	<script src="broph.lua"/>
+</meta>

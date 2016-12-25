@@ -1,0 +1,335 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.3
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : D:/MTA/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-12-24 16:26:08] Compacting accounts database 'internal.db' ...
+[2016-12-24 16:26:10] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-12-24 16:27:02] Resources: 202 loaded, 0 failed
+[2016-12-24 16:27:02] Compacting database 'registry.db' ...
+[2016-12-24 16:27:02] Starting resources...
+[2016-12-24 16:27:10] Server minclientversion is now 1.3.0-9.04311
+[2016-12-24 16:27:21] Gamemode 'play' started.
+[2016-12-24 16:27:21] Querying MTA master server... success! (Auto detected IP:31.132.176.123)
+[2016-12-24 16:27:21] Authorized serial account protection is DISABLED. See http://mtasa.com/authserial
+[2016-12-24 16:27:21] Server started and is ready to accept connections!
+[2016-12-24 16:27:21] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-12-24 16:27:21] Type 'help' for a list of commands.
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.3
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-12-24 16:47:51] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-12-24 16:48:36] Resources: 202 loaded, 0 failed
+[2016-12-24 16:48:36] Starting resources...
+[2016-12-24 16:48:45] Server minclientversion is now 1.5.3-9.10835.0
+[2016-12-24 16:48:58] Gamemode 'play' started.
+[2016-12-24 16:48:58] Querying MTA master server... success! (Auto detected IP:31.132.176.123)
+[2016-12-24 16:48:58] Authorized serial account protection is DISABLED. See http://mtasa.com/authserial
+[2016-12-24 16:48:58] Server started and is ready to accept connections!
+[2016-12-24 16:48:58] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-12-24 16:48:58] Type 'help' for a list of commands.
+[2016-12-24 16:50:17] CONNECT: [UDS]#1B90CBNoob032 connected (IP: 10.113.70.137  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.3-9.10932.0)
+[2016-12-24 16:50:24] JOIN: [UDS]#1B90CBNoob032 joined the game (IP: 10.113.70.137)
+[2016-12-24 16:51:00] QUIT: [UDS]#1B90CBNoob032 left the game [Quit]
+[2016-12-24 16:51:50] CONNECT: [UDS]#1B90CBNoob032 connected (IP: 127.0.0.1  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.3-9.10932.0)
+[2016-12-24 16:51:51] JOIN: [UDS]#1B90CBNoob032 joined the game (IP: 127.0.0.1)
+[2016-12-24 16:55:13] QUIT: [UDS]#1B90CBNoob032 left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.3
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.3
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.3
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-12-24 17:12:01] Resources: 210 loaded, 0 failed
+[2016-12-24 17:12:01] Starting resources...
+[2016-12-24 17:12:01] Server minclientversion is now 1.5.1-9.07677
+[2016-12-24 17:12:47] WARNING: Drift-Mod/carname/carnames.lua(Line 28) [Server] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible before Tuesday.
+[2016-12-24 17:12:47] WARNING: Drift-Mod/drift_cl.lua(Line 38) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible before Tuesday.
+[2016-12-24 17:12:47] Some files in 'Drift-Mod' use deprecated functions.
+[2016-12-24 17:12:47] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2016-12-24 17:12:47] WARNING: Hud/hud.lua(Line 110) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible before Tuesday.
+[2016-12-24 17:12:47] WARNING: Hud/city.lua(Line 2) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible before Tuesday.
+[2016-12-24 17:12:47] Some files in 'Hud' use deprecated functions.
+[2016-12-24 17:12:47] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2016-12-24 17:12:47] Gamemode '[Street-Drift]' started.
+[2016-12-24 17:12:47] Querying MTA master server... success! (Auto detected IP:31.132.176.123)
+[2016-12-24 17:12:47] Authorized serial account protection is DISABLED. See http://mtasa.com/authserial
+[2016-12-24 17:12:47] Server started and is ready to accept connections!
+[2016-12-24 17:12:47] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-12-24 17:12:47] Type 'help' for a list of commands.
+[2016-12-24 17:13:06] Upgrading all resources...
+[2016-12-24 17:13:06] Upgrading Drift-Mod:carname/carnames.lua ...........done
+[2016-12-24 17:13:06] Upgrading Drift-Mod:drift_cl.lua ...........done
+[2016-12-24 17:13:06] Upgrading Hud:hud.lua ...........done
+[2016-12-24 17:13:06] Upgrading Hud:city.lua ...........done
+[2016-12-24 17:13:32] Upgrading amx:server/syscalls.lua ...........done
+[2016-12-24 17:13:32] Upgrading amx:server/events.lua ...........done
+[2016-12-24 17:13:32] Upgrading amx:client/client.lua ...........done
+[2016-12-24 17:13:32] Upgrading as-heist:as-heist.lua ...........done
+[2016-12-24 17:13:33] Upgrading as-sharks:as-sharks_client.lua ...........done
+[2016-12-24 17:13:33] Upgrading assault:assault.lua ...........done
+[2016-12-24 17:13:33] Upgrading ctv:ctvspawnscreen.lua ...........done
+[2016-12-24 17:13:33] Upgrading ctv:client.lua ...........done
+[2016-12-24 17:13:38] Upgrading editor_gui:client/me_gui.lua ...........done
+[2016-12-24 17:13:40] Upgrading editor_gui:client/browser/browser.lua ...........done
+[2016-12-24 17:13:42] Upgrading editor_main:client/main.lua ...........done
+[2016-12-24 17:13:42] Please wait...
+[2016-12-24 17:13:50] Upgrading race:util_client.lua ...........done
+[2016-12-24 17:13:51] Upgrading race_ghost:record_client.lua ...........done
+[2016-12-24 17:13:51] Upgrading race_ghost:playback_client.lua ...........done
+[2016-12-24 17:13:53] Upgrading tdma:Main/tdma_core.lua ...........done
+[2016-12-24 17:13:53] Please wait...
+[2016-12-24 17:13:56] Please wait...
+[2016-12-24 17:13:59] Please wait...
+[2016-12-24 17:14:08] Please wait...
+[2016-12-24 17:14:18] Upgrade completed. Refreshing all resources...
+[2016-12-24 17:14:20] Resource 'Drift-Mod' changed while running, reloading and restarting
+[2016-12-24 17:14:20] Stopping Drift-Mod
+[2016-12-24 17:14:20] New resource 'Drift-Mod' loaded
+[2016-12-24 17:14:21] Resource 'Hud' changed while running, reloading and restarting
+[2016-12-24 17:14:21] Stopping Hud
+[2016-12-24 17:14:21] New resource 'Hud' loaded
+[2016-12-24 17:14:52] Resource 'amx' changed, reloading
+[2016-12-24 17:14:52] New resource 'amx' loaded
+[2016-12-24 17:14:52] Resource 'as-heist' changed, reloading
+[2016-12-24 17:14:52] New resource 'as-heist' loaded
+[2016-12-24 17:14:52] Resource 'as-sharks' changed, reloading
+[2016-12-24 17:14:53] New resource 'as-sharks' loaded
+[2016-12-24 17:14:53] Resource 'assault' changed, reloading
+[2016-12-24 17:14:53] New resource 'assault' loaded
+[2016-12-24 17:14:54] Resource 'ctv' changed, reloading
+[2016-12-24 17:14:54] New resource 'ctv' loaded
+[2016-12-24 17:15:02] Resource 'editor_gui' changed, reloading
+[2016-12-24 17:15:29] New resource 'editor_gui' loaded
+[2016-12-24 17:15:30] Resource 'editor_main' changed, reloading
+[2016-12-24 17:15:35] New resource 'editor_main' loaded
+[2016-12-24 17:15:46] Resource 'race' changed, reloading
+[2016-12-24 17:15:56] New resource 'race' loaded
+[2016-12-24 17:15:57] Resource 'race_ghost' changed, reloading
+[2016-12-24 17:15:57] New resource 'race_ghost' loaded
+[2016-12-24 17:15:58] Resource 'tdma' changed, reloading
+[2016-12-24 17:15:59] New resource 'tdma' loaded
+[2016-12-24 17:16:02] Resources: 210 loaded, 0 failed
+[2016-12-24 17:16:02] Starting Drift-Mod
+[2016-12-24 17:16:02] Starting Hud
+[2016-12-24 17:19:19] Server minclientversion is now 1.5.3-9.10835.0
+[2016-12-24 17:19:19] CONNECT: [UDS]#1B90CBNoob032 connected (IP: 10.113.70.137  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.3-9.10932.0)
+[2016-12-24 17:19:25] JOIN: [UDS]#1B90CBNoob032 joined the game (IP: 10.113.70.137)
+[2016-12-24 17:20:50] LOGIN: (Everyone, Admin) [UDS]#1B90CBNoob032 successfully logged in as 'Noob032' (IP: 10.113.70.137  Serial: CD721B2C4BA9A5387CEBA15397693853)
+[2016-12-24 17:23:13] start: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:23:13] Starting nac2
+[2016-12-24 17:23:37] start: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:23:37] Starting nfs_arrow
+[2016-12-24 17:24:04] ADMIN: [UDS]#1B90CBNoob032 has given [UDS]#1B90CBNoob032 'AK-47'
+[2016-12-24 17:25:34] QUIT: [UDS]#1B90CBNoob032 left the game [Quit]
+[2016-12-24 17:27:09] CONNECT: [UDS]#1B90CBNoob032 connected (IP: 10.113.70.137  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.3-9.10932.0)
+[2016-12-24 17:27:14] JOIN: [UDS]#1B90CBNoob032 joined the game (IP: 10.113.70.137)
+[2016-12-24 17:27:44] LOGIN: (Everyone, Admin) [UDS]#1B90CBNoob032 successfully logged in as 'Noob032' (IP: 10.113.70.137  Serial: CD721B2C4BA9A5387CEBA15397693853)
+[2016-12-24 17:27:53] stop: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:27:53] Stopping nac2
+[2016-12-24 17:27:59] stop: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:27:59] Stopping nfs_arrow
+[2016-12-24 17:28:18] New resource '3596' loaded
+[2016-12-24 17:28:18] Resources: 211 loaded, 0 failed
+[2016-12-24 17:28:25] start: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:28:25] Starting 3596
+[2016-12-24 17:38:31] stop: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:38:31] Stopping 3596
+[2016-12-24 17:39:52] start: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:39:52] Resource '3596' changed, reloading and starting
+[2016-12-24 17:39:52] Starting 3596
+[2016-12-24 17:43:54] restart: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:43:54] Stopping 3596
+[2016-12-24 17:43:54] Resource '3596' changed, reloading and starting
+[2016-12-24 17:43:54] Starting 3596
+[2016-12-24 17:43:54] 3596 restarted successfully
+[2016-12-24 17:47:00] restart: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:47:00] Stopping 3596
+[2016-12-24 17:47:00] Resource '3596' changed, reloading and starting
+[2016-12-24 17:47:01] Starting 3596
+[2016-12-24 17:47:01] 3596 restarted successfully
+[2016-12-24 17:50:25] restart: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:50:25] Stopping 3596
+[2016-12-24 17:50:25] Resource '3596' changed, reloading and starting
+[2016-12-24 17:50:26] Starting 3596
+[2016-12-24 17:50:26] 3596 restarted successfully
+[2016-12-24 17:50:43] restart: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:50:43] Stopping 3596
+[2016-12-24 17:50:43] Starting 3596
+[2016-12-24 17:50:43] 3596 restarted successfully
+[2016-12-24 17:51:24] restart: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:51:24] Stopping 3596
+[2016-12-24 17:51:24] Resource '3596' changed, reloading and starting
+[2016-12-24 17:51:24] Starting 3596
+[2016-12-24 17:51:24] 3596 restarted successfully
+[2016-12-24 17:52:36] restart: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:52:36] Stopping 3596
+[2016-12-24 17:52:36] Resource '3596' changed, reloading and starting
+[2016-12-24 17:52:36] Starting 3596
+[2016-12-24 17:52:36] 3596 restarted successfully
+[2016-12-24 17:54:00] CHAT: [UDS]#1B90CBNoob032: restart3596
+[2016-12-24 17:54:04] restart: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:54:04] Stopping 3596
+[2016-12-24 17:54:05] Resource '3596' changed, reloading and starting
+[2016-12-24 17:54:05] Starting 3596
+[2016-12-24 17:54:05] 3596 restarted successfully
+[2016-12-24 17:54:47] restart: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 17:54:47] Stopping 3596
+[2016-12-24 17:54:47] Resource '3596' changed, reloading and starting
+[2016-12-24 17:54:47] Starting 3596
+[2016-12-24 17:54:47] 3596 restarted successfully
+[2016-12-24 18:01:35] New resource 'Pricel' loaded
+[2016-12-24 18:01:35] Resources: 212 loaded, 0 failed
+[2016-12-24 18:01:41] start: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 18:01:41] Starting Pricel
+[2016-12-24 18:02:40] SCRIPT: [UDS]#1B90CBNoob032(Noob032) set their script debug mode to 2
+[2016-12-24 18:05:57] restart: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 18:05:57] Stopping Pricel
+[2016-12-24 18:05:57] Resource 'Pricel' changed, reloading and starting
+[2016-12-24 18:05:57] Starting Pricel
+[2016-12-24 18:05:57] Pricel restarted successfully
+[2016-12-24 18:10:31] QUIT: [UDS]#1B90CBNoob032 left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.3
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-12-24 19:25:55] Resources: 213 loaded, 0 failed
+[2016-12-24 19:25:56] Starting resources...
+[2016-12-24 19:25:56] Server minclientversion is now 1.5.3-9.10835.0
+[2016-12-24 19:26:16] Gamemode '[Street-Drift]' started.
+[2016-12-24 19:26:16] Querying MTA master server... success! (Auto detected IP:31.132.176.123)
+[2016-12-24 19:26:16] Authorized serial account protection is DISABLED. See http://mtasa.com/authserial
+[2016-12-24 19:26:16] Server started and is ready to accept connections!
+[2016-12-24 19:26:16] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-12-24 19:26:16] Type 'help' for a list of commands.
+[2016-12-24 19:26:24] CONNECT: Pike connected (IP: 7.23.180.134  Serial: 204D95E7495866C302E9B2BCD06A06F2  Version: 1.5.3-9.10835.0)
+[2016-12-24 19:26:29] JOIN: Pike joined the game (IP: 7.23.180.134)
+[2016-12-24 19:28:53] LOGIN: (Everyone) Pike successfully logged in as 'tobi' (IP: 7.23.180.134  Serial: 204D95E7495866C302E9B2BCD06A06F2)
+[2016-12-24 19:40:35] CHAT: Pike: "Кстате антиспам говно"
+[2016-12-24 19:53:57] CONNECT: [UDS]#1B90CBNoob032 connected (IP: 7.67.206.251  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.3-9.10932.0)
+[2016-12-24 19:54:14] JOIN: [UDS]#1B90CBNoob032 joined the game (IP: 7.67.206.251)
+[2016-12-24 19:54:50] LOGIN: (Everyone, Admin) [UDS]#1B90CBNoob032 successfully logged in as 'Noob032' (IP: 7.67.206.251  Serial: CD721B2C4BA9A5387CEBA15397693853)
+[2016-12-24 19:55:13] ADMIN: [UDS]#1B90CBNoob032 has moved [UDS]#1B90CBNoob032 to Pike
+[2016-12-24 19:55:28] ACL: admin: Object 'user.tobi' added to group 'Admin'
+[2016-12-24 19:55:28] ADMIN: [UDS]#1B90CBNoob032 has given admin privilegies to Pike
+[2016-12-24 19:55:59] WARNING: admin\server\admin_server.lua:1019: Bad argument @ 'giveWeapon' [Expected weapon-type at argument 2, got number '19']
+[2016-12-24 19:56:06] WARNING: admin\server\admin_server.lua:1019: Bad argument @ 'giveWeapon' [Expected weapon-type at argument 2, got number '19']
+[2016-12-24 19:56:15] ADMIN: [UDS]#1B90CBNoob032 has given [UDS]#1B90CBNoob032 a 'Banshee'" 
+[2016-12-24 19:56:27] ADMIN: [UDS]#1B90CBNoob032 has given [UDS]#1B90CBNoob032 'Minigun'
+[2016-12-24 19:58:42] ADMIN: [UDS]#1B90CBNoob032 has given [UDS]#1B90CBNoob032 'Minigun'
+[2016-12-24 19:58:42] ADMIN: [UDS]#1B90CBNoob032 has given [UDS]#1B90CBNoob032 'Minigun'
+[2016-12-24 19:58:43] ADMIN: [UDS]#1B90CBNoob032 has given [UDS]#1B90CBNoob032 'Minigun'
+[2016-12-24 19:58:43] ADMIN: [UDS]#1B90CBNoob032 has given [UDS]#1B90CBNoob032 'Minigun'
+[2016-12-24 19:58:43] ADMIN: [UDS]#1B90CBNoob032 has given [UDS]#1B90CBNoob032 'Minigun'
+[2016-12-24 19:58:43] ADMIN: [UDS]#1B90CBNoob032 has given [UDS]#1B90CBNoob032 'Minigun'
+[2016-12-24 19:58:43] ADMIN: [UDS]#1B90CBNoob032 has given [UDS]#1B90CBNoob032 'Minigun'
+[2016-12-24 19:59:03] QUIT: Pike left the game [Quit]
+[2016-12-24 19:59:56] start: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 19:59:58] WARNING: 3276/client/garageVehicles.lua(Line 11) [Client] getVehicleID is deprecated and may not work in future versions. Please replace with getElementModel.
+[2016-12-24 19:59:58] WARNING: 3276/client/garageMain.lua(Line 123) [Client] getVehicleID is deprecated and may not work in future versions. Please replace with getElementModel.
+[2016-12-24 19:59:58] Some files in '3276' use deprecated functions.
+[2016-12-24 19:59:58] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2016-12-24 19:59:58] Starting 3276
+[2016-12-24 20:00:21] Upgrading 3276:client/garageVehicles.lua ...........done
+[2016-12-24 20:00:21] Upgrading 3276:client/garageMain.lua ...........done
+[2016-12-24 20:00:21] Resource '3276' changed while running, reloading and restarting
+[2016-12-24 20:00:21] Stopping 3276
+[2016-12-24 20:00:21] New resource '3276' loaded
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.3
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ktop/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-12-24 20:03:06] Resources: 213 loaded, 0 failed
+[2016-12-24 20:03:07] Starting resources...
+[2016-12-24 20:03:07] Server minclientversion is now 1.5.3-9.10835.0
+[2016-12-24 20:03:37] Gamemode '[Street-Drift]' started.
+[2016-12-24 20:03:37] Querying MTA master server... success! (Auto detected IP:31.132.176.123)
+[2016-12-24 20:03:37] Authorized serial account protection is DISABLED. See http://mtasa.com/authserial
+[2016-12-24 20:03:37] Server started and is ready to accept connections!
+[2016-12-24 20:03:37] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-12-24 20:03:37] Type 'help' for a list of commands.
+[2016-12-24 20:04:21] CONNECT: [UDS]#1B90CBNoob032 connected (IP: 7.67.206.251  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.3-9.10932.0)
+[2016-12-24 20:04:23] JOIN: [UDS]#1B90CBNoob032 joined the game (IP: 7.67.206.251)
+[2016-12-24 20:04:45] LOGIN: (Everyone, Admin) [UDS]#1B90CBNoob032 successfully logged in as 'Noob032' (IP: 7.67.206.251  Serial: CD721B2C4BA9A5387CEBA15397693853)
+[2016-12-24 20:04:51] start: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 20:04:52] Starting 3276
+[2016-12-24 20:09:37] restart: Requested by [UDS]#1B90CBNoob032(Noob032)
+[2016-12-24 20:09:37] Stopping 3276
+[2016-12-24 20:09:38] Starting 3276
+[2016-12-24 20:09:39] 3276 restarted successfully
+[2016-12-24 20:12:35] LOGOUT: [UDS]#1B90CBNoob032 logged out as 'Noob032'
+[2016-12-24 20:12:38] WARNING: [Scripts]\Save-System\SS_server.lua:6: Bad argument @ 'getPlayerMoney' [Expected player at argument 1, got boolean]
+[2016-12-24 20:12:38] WARNING: [Scripts]\Save-System\SS_server.lua:7: Bad argument @ 'getElementModel' [Expected element at argument 1, got boolean]
+[2016-12-24 20:12:38] WARNING: [Scripts]\Save-System\SS_server.lua:8: Bad argument @ 'getElementHealth' [Expected element at argument 1, got boolean]
+[2016-12-24 20:12:38] WARNING: [Scripts]\Save-System\SS_server.lua:9: Bad argument @ 'getPedArmor' [Expected ped at argument 1, got boolean]
+[2016-12-24 20:12:55] LOGIN: (Everyone, Admin) [UDS]#1B90CBNoob032 successfully logged in as 'Noob032' (IP: 7.67.206.251  Serial: CD721B2C4BA9A5387CEBA15397693853)
+[2016-12-24 20:13:28] QUIT: [UDS]#1B90CBNoob032 left the game [Quit]

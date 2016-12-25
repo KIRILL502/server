@@ -1,0 +1,5 @@
+<meta>
+	<info author="FornetGear" version="1.0" type="script"/>
+	<script src="nitro.lua" type="client" />
+	<script src="snitro.lua" type="server"/>
+</meta>

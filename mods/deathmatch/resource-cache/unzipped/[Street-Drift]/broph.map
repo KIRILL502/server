@@ -1,0 +1,12 @@
+<map mod="Street-Drift" version="1.0">
+
+	<meta>
+		<author>Jumper</author>
+		<version>1.0</version>
+	</meta>
+    
+	<spawnpoint id="ranch" posX="-711" posY="957" posZ="12.4" rotation="90"></spawnpoint> ---id-это название спавна, pos-это позиция, rotation-угол поворота
+	<spawnpoint id="pirate" posX="2005" posY="1543" posZ="13.5" rotX="270"></spawnpoint>
+	<spawnpoint id="grove" posX="2485" posY="-1667" posZ="13.3" rotX="0"></spawnpoint>
+	<spawnpoint id="hill" posX="-2405" posY="-598" posZ="132.6" rotX="128"></spawnpoint>
+</map>

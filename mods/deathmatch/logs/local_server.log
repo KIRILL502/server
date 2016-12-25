@@ -1,0 +1,225 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.2
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-06-13 16:39:45] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-06-13 16:39:55] Resources: 197 loaded, 0 failed
+[2016-06-13 16:39:55] Starting resources...
+[2016-06-13 16:39:56] Admin access list successfully updated 
+[2016-06-13 16:39:56] INFO: Admin added 499 missing rights
+[2016-06-13 16:39:56] Server minclientversion is now 1.3.0-9.04311
+[2016-06-13 16:39:57] Gamemode 'play' started.
+[2016-06-13 16:39:57] Server started and is ready to accept connections!
+[2016-06-13 16:39:57] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-06-13 16:39:57] Type 'help' for a list of commands.
+[2016-06-13 16:39:57] CONNECT: Noob032 connected (IP: 127.0.0.1  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.2-9.08022.0)
+[2016-06-13 16:39:57] JOIN: Noob032 joined the game (IP: 127.0.0.1)
+[2016-06-13 16:56:38] QUIT: Noob032 left the game [Quit]
+[2016-06-13 16:56:38] Server stopped!
+[2016-06-13 16:56:38] Stopping resources......................
+[2016-06-13 16:56:38] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.2
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-07-01 17:04:26] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-07-01 17:04:30] Resources: 200 loaded, 0 failed
+[2016-07-01 17:04:30] Starting resources...
+[2016-07-01 17:04:30] Server minclientversion is now 1.3.0-9.04311
+[2016-07-01 17:04:31] Gamemode 'play' started.
+[2016-07-01 17:04:31] Server started and is ready to accept connections!
+[2016-07-01 17:04:31] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-07-01 17:04:31] Type 'help' for a list of commands.
+[2016-07-01 17:04:32] CONNECT: #00FF00Noob#696969032 connected (IP: 127.0.0.1  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.2-9.08022.0)
+[2016-07-01 17:05:01] QUIT: #00FF00Noob#696969032 left the game [Quit]
+[2016-07-01 17:05:02] Server stopped!
+[2016-07-01 17:05:03] Stopping resources......................
+[2016-07-01 17:05:03] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.2
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-07-29 09:37:47] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-07-29 09:38:00] Resources: 200 loaded, 0 failed
+[2016-07-29 09:38:01] Starting resources...
+[2016-07-29 09:38:01] Server minclientversion is now 1.3.0-9.04311
+[2016-07-29 09:38:02] Gamemode 'play' started.
+[2016-07-29 09:38:02] Server started and is ready to accept connections!
+[2016-07-29 09:38:02] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-07-29 09:38:02] Type 'help' for a list of commands.
+[2016-07-29 09:38:04] CONNECT: #00FF00Noob#696969032 connected (IP: 127.0.0.1  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.2-9.08077.0)
+[2016-07-29 09:38:04] JOIN: #00FF00Noob#696969032 joined the game (IP: 127.0.0.1)
+[2016-07-29 09:50:21] CHAT: #00FF00Noob#696969032: В
+[2016-07-29 09:51:09] QUIT: #00FF00Noob#696969032 left the game [Quit]
+[2016-07-29 09:51:10] Server stopped!
+[2016-07-29 09:51:10] Stopping resources......................
+[2016-07-29 09:51:10] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.2
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-08-03 12:29:38] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-08-03 12:29:39] Server stopped!
+[2016-08-03 12:29:39] Stopping resources...
+[2016-08-03 12:29:39] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.2
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-08-31 13:28:20] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-08-31 13:28:31] Resources: 200 loaded, 0 failed
+[2016-08-31 13:28:31] Starting resources...
+[2016-08-31 13:28:32] Server minclientversion is now 1.3.0-9.04311
+[2016-08-31 13:28:33] Gamemode 'play' started.
+[2016-08-31 13:28:33] Server started and is ready to accept connections!
+[2016-08-31 13:28:33] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-08-31 13:28:33] Type 'help' for a list of commands.
+[2016-08-31 13:28:33] CONNECT: #00FF00Noob#696969032 connected (IP: 127.0.0.1  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.2-9.09885.0)
+[2016-08-31 13:28:33] JOIN: #00FF00Noob#696969032 joined the game (IP: 127.0.0.1)
+[2016-08-31 13:38:37] QUIT: #00FF00Noob#696969032 left the game [Quit]
+[2016-08-31 13:38:38] Server stopped!
+[2016-08-31 13:38:38] Stopping resources......................
+[2016-08-31 13:38:38] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.2
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-10-27 21:44:55] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-10-27 21:44:57] Server stopped!
+[2016-10-27 21:44:57] Stopping resources...
+[2016-10-27 21:44:57] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.2
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-11-07 10:01:02] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-11-07 10:01:16] Resources: 202 loaded, 0 failed
+[2016-11-07 10:01:17] Starting resources...
+[2016-11-07 10:01:17] Server minclientversion is now 1.3.0-9.04311
+[2016-11-07 10:01:18] Gamemode 'play' started.
+[2016-11-07 10:01:19] Server started and is ready to accept connections!
+[2016-11-07 10:01:19] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-11-07 10:01:19] Type 'help' for a list of commands.
+[2016-11-07 10:01:19] CONNECT: #1B90CBNoob#1BCBBF032 connected (IP: 127.0.0.1  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.2-9.09928.4)
+[2016-11-07 10:01:23] JOIN: #1B90CBNoob#1BCBBF032 joined the game (IP: 127.0.0.1)
+[2016-11-07 10:15:58] QUIT: #1B90CBNoob#1BCBBF032 left the game [Quit]
+[2016-11-07 10:16:00] Server stopped!
+[2016-11-07 10:16:00] Stopping resources......................
+[2016-11-07 10:16:00] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.2
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-11-07 10:16:03] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-11-07 10:16:07] Resources: 202 loaded, 0 failed
+[2016-11-07 10:16:07] Starting resources...
+[2016-11-07 10:16:07] Server minclientversion is now 1.3.0-9.04311
+[2016-11-07 10:16:08] Gamemode 'play' started.
+[2016-11-07 10:16:08] Server started and is ready to accept connections!
+[2016-11-07 10:16:08] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-11-07 10:16:08] Type 'help' for a list of commands.
+[2016-11-07 10:16:09] CONNECT: #1B90CBNoob#1BCBBF032 connected (IP: 127.0.0.1  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.2-9.09928.4)
+[2016-11-07 10:16:09] JOIN: #1B90CBNoob#1BCBBF032 joined the game (IP: 127.0.0.1)
+[2016-11-07 10:25:26] QUIT: #1B90CBNoob#1BCBBF032 left the game [Quit]
+[2016-11-07 10:25:27] Server stopped!
+[2016-11-07 10:25:27] Stopping resources......................
+[2016-11-07 10:25:27] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.2
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2016-11-07 12:48:21] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2016-11-07 12:48:38] Resources: 202 loaded, 0 failed
+[2016-11-07 12:48:38] Starting resources...
+[2016-11-07 12:48:39] Server minclientversion is now 1.3.0-9.04311
+[2016-11-07 12:48:40] Gamemode 'play' started.
+[2016-11-07 12:48:40] Server started and is ready to accept connections!
+[2016-11-07 12:48:40] To stop the server, type 'shutdown' or press Ctrl-C
+[2016-11-07 12:48:40] Type 'help' for a list of commands.
+[2016-11-07 12:48:40] CONNECT: #1B90CBNoob#1BCBBF032 connected (IP: 127.0.0.1  Serial: CD721B2C4BA9A5387CEBA15397693853  Version: 1.5.2-9.09928.4)
+[2016-11-07 12:48:44] JOIN: #1B90CBNoob#1BCBBF032 joined the game (IP: 127.0.0.1)
+[2016-11-07 13:06:12] QUIT: #1B90CBNoob#1BCBBF032 left the game [Quit]
+[2016-11-07 13:06:13] Server stopped!
+[2016-11-07 13:06:13] Stopping resources......................
+[2016-11-07 13:06:13] Closing SQLite3 database
